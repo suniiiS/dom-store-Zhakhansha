@@ -1,0 +1,4 @@
+.error { color: crimson; font-size: 0.85em; display: block; min-height: 1em; }
+label { display: block; margin-bottom: .5rem; }
+table { border-collapse: collapse; margin-top: 1rem; }
+td, th { border: 1px solid #ccc; padding: .4rem .8rem; }
