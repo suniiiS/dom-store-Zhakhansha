@@ -1,7 +1,7 @@
 # DOM Store
 
 ## Как открыть
-Открыть через Live Server в VS Code или по ссылке GitHub Pages: <ссылка>.
+Открыть через Live Server в VS Code или по ссылке GitHub Pages: [<ссылка>](https://suniiis.github.io/dom-store-Zhakhansha/).
 Двойным кликом по index.html не откроется, потому что используются ES-модули.
 
 ## Какие события я обработал
